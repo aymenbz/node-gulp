@@ -12,5 +12,3 @@ RUN npm install -g gulp
 
 # Define working directory.
 WORKDIR /home/workspace
-
-# Define default command.
