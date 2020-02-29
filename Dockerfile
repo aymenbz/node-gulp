@@ -5,7 +5,7 @@
 #
 
 # Pull base image.
-FROM node:6
+FROM node:10
 
 # Install Bower & Gulp
 RUN npm install -g gulp
