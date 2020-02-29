@@ -2,7 +2,6 @@
 # Node.js w/ Bower & Gulp Dockerfile
 #
 # https://github.com/dockerfile/nodejs-bower-gulp
-#
 
 # Pull base image.
 FROM node:10
